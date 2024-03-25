@@ -22,6 +22,7 @@ bash Anaconda3-2024.02-1-Linux-x86_64.sh
 
 conda init
 ```
+
 # Create and activate environment
 ```
 conda create --name MDLT
