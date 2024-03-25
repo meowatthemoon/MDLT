@@ -43,6 +43,26 @@ pip install causal-conv1d>=1.2.0
 pip install mamba-ssm
 ```
 
+# Train
+
+Train Transformer on AIST++
+
+```
+python3 main_transformer_aist.py --genre 'all' --infer_every 1000 --K 20 --n_epochs 50000 --infer_every 5000 --n_layer 6 --d_model 128 --val_index 0
+```
+
+Train Transformer on AIST++ "mLH" genre
+
+```
+python3 main_transformer_aist.py --genre 'mLH' --infer_every 1000 --K 20 --n_epochs 50000 --infer_every 5000 --n_layer 6 --d_model 128 --val_index 0
+```
+
+Train Transformer on PhantomDance
+
+```
+python3 main_transformer_phantom.py  --infer_every 1000 --K 20 --n_epochs 50000 --infer_every 5000 --n_layer 6 --d_model 128 --val_type 0
+```
+
 ## Citation
 
 If you use this codebase, or otherwise found our work valuable, please cite MDLT:
