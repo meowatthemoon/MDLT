@@ -8,7 +8,7 @@ If you want to extract audio and pose features from a data set, you can find exa
 
 Otherwise, you can download the processed AIST++ and PhantomDance data bellow:
 
-[Google Drive link](https://drive.google.com/drive/folders/16Uvp6rbyzLh0PFx_hG8v3sJTZqK5iWPC?usp=drive_link)
+[Google Drive link](https://drive.google.com/file/d/1YsrAkAkTjTsEswvtT9DDlWI4YipEJjZf/view?usp=drive_link)
 
 # Install Anaconda
 ```
