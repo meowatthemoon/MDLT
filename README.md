@@ -1,6 +1,6 @@
 > **Music to Dance as Language Translation using Sequence Models**\
 > André Correia, Luís A. Alexandre\
-> Paper: 
+> Paper: https://arxiv.org/abs/2403.15569
 
 ## Pre-Processing
 
@@ -65,5 +65,12 @@ python3 main_transformer_phantom.py  --infer_every 1000 --K 20 --n_epochs 50000 
 
 If you use this codebase, or otherwise found our work valuable, please cite MDLT:
 ```
-TODO
+@misc{correia2024music,
+      title={Music to Dance as Language Translation using Sequence Models}, 
+      author={André Correia and Luís A. Alexandre},
+      year={2024},
+      eprint={2403.15569},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}
 ```
