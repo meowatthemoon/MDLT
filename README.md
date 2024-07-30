@@ -2,6 +2,10 @@
 > André Correia, Luís A. Alexandre\
 > Paper: https://arxiv.org/abs/2403.15569
 
+## Video Preview
+
+[Video Demonstration](https://drive.google.com/file/d/1kejVe1j_n0XKT9BaeYoBFHtKxNyfR_8Y/view?usp=drive_link)
+
 ## Pre-Processing
 
 If you want to extract audio and pose features from a data set, you can find example code for AIST++ and PhantomDance data sets in the processing directory.
